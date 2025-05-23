@@ -1,7 +1,3 @@
-print("Hello World")
+def suma(a,b):
+    return a+b
 
-print("Bye world")
-
-print("esta informacion tambien se tiene que ver")
-
-print("adios mundo")
